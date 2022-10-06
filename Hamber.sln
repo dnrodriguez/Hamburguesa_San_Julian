@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hamber.EntidadesDeNegocio", "Hamber.EntidadesDeNegocio\Hamber.EntidadesDeNegocio.csproj", "{B12A0A46-9166-473C-8C1A-B8774ADACA4E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hamber.AccesoDatos", "Hamber.AccesoDatos\Hamber.AccesoDatos.csproj", "{C60F637C-1696-48A0-A83B-84FEBF57CBCB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hamber.LogicaDeNegocios", "Hamber.LogicaDeNegocios\Hamber.LogicaDeNegocios.csproj", "{0BF4F211-DEDE-4D7C-82E5-03F458555AC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hamber.WebApi", "Hamber.WebApi\Hamber.WebApi.csproj", "{E6CC4631-BE5A-4BCD-92BD-4BF9BB5F4709}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebasUnitarias", "PruebasUnitarias\PruebasUnitarias.csproj", "{314DA769-704B-4CEE-8795-516DCD8EF894}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B12A0A46-9166-473C-8C1A-B8774ADACA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B12A0A46-9166-473C-8C1A-B8774ADACA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B12A0A46-9166-473C-8C1A-B8774ADACA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B12A0A46-9166-473C-8C1A-B8774ADACA4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C60F637C-1696-48A0-A83B-84FEBF57CBCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60F637C-1696-48A0-A83B-84FEBF57CBCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60F637C-1696-48A0-A83B-84FEBF57CBCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60F637C-1696-48A0-A83B-84FEBF57CBCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BF4F211-DEDE-4D7C-82E5-03F458555AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF4F211-DEDE-4D7C-82E5-03F458555AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF4F211-DEDE-4D7C-82E5-03F458555AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF4F211-DEDE-4D7C-82E5-03F458555AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6CC4631-BE5A-4BCD-92BD-4BF9BB5F4709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6CC4631-BE5A-4BCD-92BD-4BF9BB5F4709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6CC4631-BE5A-4BCD-92BD-4BF9BB5F4709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6CC4631-BE5A-4BCD-92BD-4BF9BB5F4709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{314DA769-704B-4CEE-8795-516DCD8EF894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314DA769-704B-4CEE-8795-516DCD8EF894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314DA769-704B-4CEE-8795-516DCD8EF894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314DA769-704B-4CEE-8795-516DCD8EF894}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00C83923-F6ED-4A56-A873-A935FD13DA0A}
+	EndGlobalSection
+EndGlobal

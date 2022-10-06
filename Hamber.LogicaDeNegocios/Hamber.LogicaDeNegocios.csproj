@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Hamber.AccesoDatos\Hamber.AccesoDatos.csproj" />
+    <ProjectReference Include="..\Hamber.EntidadesDeNegocio\Hamber.EntidadesDeNegocio.csproj" />
+  </ItemGroup>
+
+</Project>
